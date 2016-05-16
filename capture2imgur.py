@@ -52,7 +52,6 @@ def notify(message):
 
 
 if __name__ == '__main__':
-    copy_text("test")
     if not os.path.exists(_path):
         os.mkdir(_path)
     now = strftime("%d.%m.%Y %H:%M:%S")
