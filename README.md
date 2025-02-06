@@ -46,5 +46,3 @@ Made with ❤️ for easy screenshot sharing!
 
 ---
 📌 *Tip: You can set a keyboard shortcut to run this script for faster screenshots!*
-```
-
